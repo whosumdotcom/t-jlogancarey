@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T12:47:42Z",
+  "IdClaims": [
+    {
+      "Claim": "t:jlogancarey"
+    },
+    {
+      "Claim": "mdon:@jlogancarey@mastodon.art"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "4821c91f3daf0079b329f4f9",
+    "Timestamp": "2023-04-06T12:56:13Z",
+    "Signature": "6bea845eea2986ddcf102f17e997d934bf75d895c2e7e61ae942aa221607ef7a169dd316ff2c51e3ccbe8d027accc26f895a4d12c5100b0da2a6e289de3e35ac7cb7c9d652ca3384537d60092d68bd33db498f4119c90153b3aa0ff7d2c4db4e64de7c993063b3e8f12c8203bb3abc8b0198543217c53f07e1e13e5f1c72172cc434982940ed71b1f9b6d450616419c459b9d7f67f5f07754ec2e6e0690218f7f0b23215c5fab673acb5f3529db30efd6c5f1fd08739fbb51b03cb9e6b53ea801030e6f64bdf868f3f7b183f30e130e113515b03336f3e8c53cbf7b7e7ec0fbd8091737bfd41f0ff0bb89e114c0035dcead5e7d00ddf0c7282756798979f9141"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "d51975839d72f6c4c42121252b2a9c051c2f4b01c957ab07bee8d8c72f4e247c",
+  "ContentToHash": "v1|mdon:@jlogancarey@mastodon.art,t:jlogancarey|2023-04-06T12:47:42Z"
+}
